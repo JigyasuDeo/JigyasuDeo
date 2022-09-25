@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jigyasu Deo</h1>
-<h3 align="center">I am a 3rd year undergrad student at Graphic Era University.</h3>
+<h3 align="center">I am a 4th year undergrad student at Graphic Era University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigyasudeo&label=Profile%20views&color=0e75b6&style=flat" alt="jigyasudeo" /> </p>
 
